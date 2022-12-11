@@ -28,7 +28,7 @@
     "@types/jest": "24.0.25",
     "@types/lodash": "4.14.149",
     "@types/node": "11.15.0",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "fastify-swagger": "2.5.0",
     "husky": "3.1.0",
     "jest": "24.9.0",
